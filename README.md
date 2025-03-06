@@ -15,3 +15,9 @@ Here is A Preview of How it looks:
 
 
 ![image](https://github.com/user-attachments/assets/170aee88-16aa-40af-9bfd-1025609a429e)
+
+
+
+You can try the website here:
+
+https://focus-list-tasks.lovable.app/
