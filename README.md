@@ -9,4 +9,4 @@ Local storage to save tasks between sessions
 Fully responsive across all screen sizes
 The app focuses on providing a simple and intuitive user experience with beautiful transitions and a soft color palette. I'm continuing to refine the design and add new features.
 
-#TaskManagement #UXDesign #WebDevelopment #Productivity
+
